@@ -429,3 +429,4 @@ MIT — see [LICENSE](LICENSE)
 <div align="center">
   <p>Built by <a href="https://x.com/viperr">@viperr</a> · Self-hosted · No extensions · No cloud</p>
 </div>
+
